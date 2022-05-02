@@ -4,6 +4,7 @@ Mini project based on model training with the help of GUI(Tkinter) and make use 
 Note: - There are some extra files that you need to ignore because it is a part of other project: - 
 1. stockakshat.ipynb
 2. weather.ipynb
+3. demo.ipynb
 
 How to use: - 
 1. Make venv in your IDE
